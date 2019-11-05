@@ -1,7 +1,7 @@
 {
   "name": "hyperdiscovery",
   "version": "10.1.0",
-  "description": "Join the p2p swarm for hypercore and hyperdrive feeds.",
+  "description": "[stackblitz compat fork] Join the p2p swarm for hypercore and hyperdrive feeds.",
   "main": "index.js",
   "scripts": {
     "test": "standard && dependency-check . && node test.js",
